@@ -53,7 +53,7 @@ public abstract class Bag {
     public int getNumberOfContents(){
         return this.numberOfContents;
     }
-    public int GetCapacity(){
+    public int getCapacity(){
         return this.capacity;
     }
 
